@@ -1,9 +1,9 @@
 # Mr.Card.io
-Data Cardio Hack - Ufa
-https://codenrock.com/contests/hakaton-codenrock-cardiodatahack#/
+[Data Cardio Hack - Ufa](https://codenrock.com/contests/hakaton-codenrock-cardiodatahack#/)
 
 
-## Слушаем и слышим данные.
+
+## Слушаем и слышим данные
 
 ### Задача 2
 
@@ -13,6 +13,6 @@ https://codenrock.com/contests/hakaton-codenrock-cardiodatahack#/
 
 ### Команда
 
-DA Мария Шемонаева
-DA Лука Грубин
-Team Lead, DA Кали Ли
+DA Мария Шемонаева</br>
+DA Лука Грубин</br>
+Team Lead, DA Кали Ли</br>
