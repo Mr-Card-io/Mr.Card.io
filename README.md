@@ -1,6 +1,5 @@
 # Mr.Card.io
 Data Cardio Hack - Ufa
-
 https://codenrock.com/contests/hakaton-codenrock-cardiodatahack#/
 
 
